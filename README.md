@@ -6,4 +6,6 @@ anacondaf/anacondaf is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+I have found some cool things from daily.dev which 'devCard'. Aha and here is mine!
+
 <a href="https://app.daily.dev/LouisWilliam"><img src="https://api.daily.dev/devcards/838048ad92ac44f9924d5c40d46650a0.png?r=70t" width="400" alt="Louis William's Dev Card"/></a>

@@ -50,8 +50,14 @@ Nvim setup
 3. [Floating window](https://thefullsnack.com/posts/vim-play-with-floating.html)
 4. [Vim Plug](https://github.com/junegunn/vim-plug)
 5. [Vim Awesome_Vim plugin manager](https://vimawesome.com/)
+6. [vim-commentary](https://github.com/tpope/vim-commentary)
+7. [Key mapping & Leader key](https://learnvimscriptthehardway.stevelosh.com/chapters/06.html#mapping-key-sequences)
 
-
+Some nvim controls
+1. Comment: Shift-V(enter Visual mode), select line > gcc. For uncommenting: Shift-V and select commented block > gcc
+2. Split: :split; :vsplit
+3. Move between panes: Ctrl<h,j,k,l>
+4. Tab: :tabs(List tabs); :tabp(goto previous tab); :tabn(goto next tab); NERDTree: t(open file in new tab); s(open file in horizontal panes)
 
 <a href="https://app.daily.dev/KevinNolan"><img src="https://api.daily.dev/devcards/838048ad92ac44f9924d5c40d46650a0.png?r=lvr" width="300" alt="KevinNolan's Dev Card"/></a>
 

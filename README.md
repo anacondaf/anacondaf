@@ -14,7 +14,7 @@ Here are some links, blogs or articles that I studied/is studying, I'd love if y
 1. [SERIES: You don't know JS(6 free online ebooks)](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 2. [OpenCV documentation](https://docs.opencv.org/3.4.15/d6/d00/tutorial_py_root.html)
 3. [A really cool blog to learn architect and principles (Vietnamese)](https://edwardthienhoang.wordpress.com)
-4. [Hackernoon(I usually read blogs in **READ** menu](https://hackernoon.com)
+4. [Hackernoon](https://hackernoon.com)
 5. [YOUTUBE CHANNEL: Murtaza's Workshop. A hands-on practical resource](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI)
 6. [UML Diagrams](https://sourcemaking.com/uml)
 

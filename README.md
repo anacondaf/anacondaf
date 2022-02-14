@@ -60,5 +60,3 @@ Some nvim controls
 4. Tab: :tabs(List tabs); :tabp(goto previous tab); :tabn(goto next tab); NERDTree: t(open file in new tab); s(open file in horizontal panes)
 
 <a href="https://app.daily.dev/KevinNolan"><img src="https://api.daily.dev/devcards/838048ad92ac44f9924d5c40d46650a0.png?r=lvr" width="300" alt="KevinNolan's Dev Card"/></a>
-
-_Cool discovery: I have found some cool things from daily.dev which is called 'DevCard'. Aha and above is mine!_

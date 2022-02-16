@@ -7,8 +7,6 @@ My main languages:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript" width="32"/> 	&nbsp; 	&nbsp;<img src="https://cdn.picpng.com/logo/language-logo-python-44976.png" alt="Python" width="32"/>
 
-Here are some links, blogs or articles that I studied/is studying, I'd love if you want to!
-
 ### Study Resources (Updated: Oct 31, 2021) :+1:
 
 1. [SERIES: You don't know JS(6 free online ebooks)](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)

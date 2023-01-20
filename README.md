@@ -47,7 +47,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ### :fire: My Stats :
-![Anacondaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacondaf)
+![Anacondaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=kainguyen)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacondaf&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainguyen&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 

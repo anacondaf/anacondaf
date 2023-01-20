@@ -15,7 +15,7 @@
 </div>
 
 <div id="introduction" align="center">
-<p >👋 Hi !</p>
+<p > Hey there 👋</p>
 
 </div>
 
@@ -47,7 +47,12 @@ I’m really interested in web development, system architecture
 </div>
 
 ### :fire: My Stats :
-![Anacondaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=kainguyen)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainguyen&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/anacondaf">
+        <img width="45%" alt="anacondaf" src="https://github-readme-stats.vercel.app/api?username=anacondaf&show_icons=true&hide_border=true&theme=radical" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img width="45%" src="https://streak-stats.demolab.com?user=anacondaf&theme=radical&hide_border=true&fire=0028DD" alt="anacondaf" />
+    </a>
+</div>

@@ -22,16 +22,15 @@
 ### :woman_technologist: About Me
 - I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> .
 
-- I have 2 years with Nodejs stack, using Express framework
+- I have 2 years worked with Nodejs stack, using Express framework
 
-- Currently I'm using Golang and .NetCore
+- Currently I'm working on Golang and .Net core
 
 
 ### Experiences
 
 - Work at [Doccen.vn](https://www.doccen.vn/homepage)
   - ExpressJS, .Netcore, EF Core, Linq, MySQL, AWS Lightsail
-
 
 ### Languages
 

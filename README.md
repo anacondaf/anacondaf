@@ -22,9 +22,9 @@
 ### :woman_technologist: About Me
 - I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> .
 
-- I have 2 year of experiences in .Net, NodeJS
+- I have 2 years of experiences in .Net, NodeJS
 
-- Currently I'm working on Golang and .Netcore API
+- Currently I'm working on NodeJS, Golang and .NET CORE API
 
 
 ### Experiences
